@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +28,10 @@
               "RelativeDocumentMoniker": "Project1.cpp",
               "ToolTip": "D:\\College\\Spring 2025\\Parallel_Processing\\ParallelProcessing\\Project1\\ParallelMergeSort_Project\\Project1\\Project1.cpp",
               "RelativeToolTip": "Project1.cpp",
-              "ViewState": "AgIAALoAAAAAAAAAAAAAAMUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAALkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-18T06:13:49.848Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

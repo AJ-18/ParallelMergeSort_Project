@@ -180,14 +180,12 @@ void parallelMergeSort(vector<char>& arr, int left, int right, int depth)
 {
     uint64_t startTime = ThreadTimer::getTime();
     // Use the regularMergeSort if we have used all the thread depth
-    // Commented out for testing purposes but this would be uncommented for real functionality
-    /*
     if (depth <= 0) 
     {
         regularMergeSort(arr, left, right);
         return;
     }
-    */
+   
 
     // Find middle
     int mid = left + (right - left) / 2;
