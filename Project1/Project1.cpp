@@ -1,4 +1,4 @@
-// Project1.cpp:  - Parallel Merge Sort 
+// Project1.cpp: Arjun Suresh  - Parallel Merge Sort 
 // Numbers, then uppercase, then lowercase
 
 #include <iostream>

@@ -1,5 +1,4 @@
 ﻿  Project1.cpp
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\semaphore(16): warning STL4038: The contents of <semaphore> are available only with C++20 or later.
-D:\College\Spring 2025\Parallel_Processing\ParallelProcessing\Project1\ParallelMergeSort_Project\Project1\Project1.cpp(332,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-D:\College\Spring 2025\Parallel_Processing\ParallelProcessing\Project1\ParallelMergeSort_Project\Project1\Project1.cpp(226,1): warning C4717: 'parallelMergeSort': recursive on all control paths, function will cause runtime stack overflow
+D:\College\Spring 2025\Parallel_Processing\ParallelProcessing\Project1\ParallelMergeSort_Project\Project1\Project1.cpp(330,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   Project1.vcxproj -> D:\College\Spring 2025\Parallel_Processing\ParallelProcessing\Project1\ParallelMergeSort_Project\Project1\x64\Debug\Project1.exe
